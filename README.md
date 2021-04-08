@@ -8,3 +8,6 @@ this is a simple website project
 ## deployment
 
 Sample website with plenty of files for demos
+
+
+this is a simple example
