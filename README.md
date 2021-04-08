@@ -2,6 +2,7 @@
 
 ## Introduction
 
+this is a simple website project 
 ## Purpose
 
 ## deployment
