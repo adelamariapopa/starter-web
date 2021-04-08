@@ -7,6 +7,7 @@ this is a simple website project
 
 ## deployment
 
+a new text
 Sample website with plenty of files for demos
 
 
