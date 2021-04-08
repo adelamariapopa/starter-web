@@ -1,7 +1,9 @@
 # Starter Web Repo
 
-##Introduction
+## Introduction
 
 ## Purpose
+
+## deployment
 
 Sample website with plenty of files for demos
