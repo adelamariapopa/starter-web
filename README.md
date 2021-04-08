@@ -12,3 +12,15 @@ Sample website with plenty of files for demos
 
 
 this is a simple example
+
+
+text test 
+'
+'s
+a's
+'a
+s'a
+s'a
+'sa
+'s
+a'
